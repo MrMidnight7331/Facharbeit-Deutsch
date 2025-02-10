@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Vorgehen Logbuch.md",
+                "file": "01. Themenübersicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Vorgehen Logbuch.md",
+                "file": "01. Themenübersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Vorgehen Logbuch.md",
+                "file": "01. Themenübersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Vorgehen Logbuch.md"
+                "file": "01. Themenübersicht.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   "active": "06224ae974e72df0",
   "lastOpenFiles": [
     "README.md",
-    "01. Themenübersicht.md",
     "99. Vorgehen Logbuch.md",
+    "01. Themenübersicht.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/04. Golden Ticket Attacks.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/02. Dumping the NTDS.dit.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/03. Golden Ticket Attacks Overview.md",
