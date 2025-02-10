@@ -1,2 +1,6 @@
-# Facharbeit-Deutsch
-Anpassungsstrategien und soziales verhalten des Menschen in einer postapokalyptischen Welt anhand einer Analyse der Metro Romane und Videospielen
+# Facharbeit: Deutsch 
+> Anpassungsstrategien und soziales Verhalten des Menschen in einer postapokalyptischen Welt
+
+---
+ 
+

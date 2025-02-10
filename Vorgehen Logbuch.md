@@ -1,0 +1,7 @@
+# Vorgehen:
+
+## 01.02.25
+1. Metro Romane erneut durchfliegen um die Geschichte zu wiederholen
+
+## 10.02.25
+1. Anfertigen von einer Themenübersicht

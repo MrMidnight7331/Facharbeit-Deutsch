@@ -1,0 +1,31 @@
+# Themenübersicht:
+
+**1. Einleitung**
+- Vorstellung des Themas: Was bedeutet „postapokalyptische Welt“ im Kontext der Metro-Romane und -Videospiele?
+- Ziel der Arbeit: Welche Anpassungsstrategien und sozialen Verhaltensweisen sollen analysiert werden?
+- Relevanz: Warum sind diese Fragestellungen aktuell und bedeutsam?
+
+**2. Hintergrundinformationen**
+- Überblick über die Metro-Romane (Metro 2033, Metro 2034, Metro 2035): Hauptthemen, Setting, zentrale Figuren.
+- Die Metro-Videospiele: Entstehung, Unterschiede zu den Romanen, Fokus auf narrative Elemente.
+- Allgemeiner Kontext: Was macht eine postapokalyptische Welt aus? Welche Herausforderungen stellen sich den Überlebenden?
+
+**3. Anpassungsstrategien in der postapokalyptischen Welt**
+- Physische Anpassungen: Überleben in einer zerstörten und Nuklear versäuchten Umwelt (z. B. Umgang mit knappen Ressourcen, Strahlung).
+- Psychologische Strategien: Bewältigung von Traumata, Entwicklung neuer Wertvorstellungen und Prioritäten.
+- Technologische und handwerkliche Innovationen: Herstellung von Waffen, Werkzeugen und Lebensmitteln.
+
+**4. Soziales Verhalten und gesellschaftliche Strukturen**
+- Gruppenbildung und soziale Hierarchien: Wie organisieren sich Menschen in Clans, Sekten, Fraktionen oder Gemeinschaften?
+- Konfliktbewältigung und Koexistenz: Wie werden Streitigkeiten gelöst, und gibt es Kooperationen zwischen unterschiedlichen Gruppen?
+- Neue Normen und Werte: Welche ethischen Prinzipien entstehen unter extremen Bedingungen?
+
+**5. Analyse und Vergleich**
+- Parallelen zwischen den Metro-Romanen und den -Videospielen: Welche Anpassungsstrategien und Verhaltensweisen werden besonders betont?
+- Unterschiede und Kontraste: Wo weichen Romane und Spiele voneinander ab?
+- Übertragbarkeit auf andere postapokalyptische Werke: Gibt es vergleichbare Muster in anderen Romanen, Spielen oder Filmen?
+
+**6. Fazit**
+- Zusammenfassung der wichtigsten Erkenntnisse.
+- Einordnung: Was kann man aus der Betrachtung der Metro-Romane und -Spiele für unser Verständnis von Anpassung und sozialem Verhalten lernen?
+- Ausblick: Welche offenen Fragen bleiben, und wie könnten weitere Untersuchungen aussehen?
